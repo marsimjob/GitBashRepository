@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Update a new 2!
+=======
+Now this is edited, lets see how its dealt hwith! We needed another update!
+>>>>>>> main
